@@ -1,2 +1,2 @@
 console.log("test deploy");
-console.log("another test");
+console.log("another");
