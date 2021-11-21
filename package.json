@@ -1,0 +1,14 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hayder-alraeai/deploy-school.git",
+  "author": "hayder86 <hayder@andrepeat.io>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "nodemon myApp.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
